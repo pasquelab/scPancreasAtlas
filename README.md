@@ -1,4 +1,4 @@
-# scPancreasAtlas
+# The Gene Regulatory Landscape of the Human Adult Pancreas
 
 This repository contains .loom file supplemental to the article "The Gene Regulatory Landscape of the Human Adult Pancreas Reveals Critical Regulators of Cell Identity".
 
