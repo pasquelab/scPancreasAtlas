@@ -45,9 +45,9 @@ Gene expression and regulon activity can be compared between different annotated
 Annotations can be dragged into the boxes for visualisation
 
 ![alt text](https://github.com/pasquelab/scPancreasAtlas/blob/master/Screenshot_6.png?raw=true)
-*Comparing the activity of the regulon ARX between alpha, beta, delta and gamma cells reveals high ARX activity in alpha and gamma cells.*
+*Comparing the activity of the regulon ARX between alpha, beta, delta and gamma cells reveals high IRX2 activity in alpha and gamma cells.*
 
-Different annotations can be combined together (eg. non-diabetic beta cells vs type 2 diabetic beta cells)
+Different annotations can be combined together for comparison (eg. non-diabetic beta cells vs type 2 diabetic beta cells).
 
 ![alt text](https://github.com/pasquelab/scPancreasAtlas/blob/master/Screenshot_7.png?raw=true)
 *RXRG regulon activity is higher in type 2 diabetic beta cells compared to non-diabetic beta cells, as shown in Figure 4D)*
