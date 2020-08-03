@@ -1,6 +1,6 @@
-# The Gene Regulatory Landscape of the Human Adult Pancreas
+# Revealing the Key Regulators of Cell Identity in the Human Adult Pancreas
 
-This repository contains .loom file supplemental to the article "The Gene Regulatory Landscape of the Human Adult Pancreas Reveals Critical Regulators of Cell Identity".
+This repository contains .loom file supplemental to the article "Revealing the Key Regulators of Cell Identity in the Human Adult Pancreas".
 
 As a resource to the community, this .loom file contains gene expression and regulon based UMAP plots, cluster annotations, integrated gene expression and gene regulatory data from datasets analyzed in this manuscript.
 
@@ -8,7 +8,7 @@ The .loom file can be downloaded here: [scPancreasAtlas.loom](https://filesender
 
 SCope was developed and is maintained by [Aerts lab.](https://www.aertslab.org/)
 
-In order for SCope to work well, please use Google Chrome as your browser. 
+We recommend using SCope in Google Chrome for optimal visualisation. 
 
 ## SCope Tutorial
 
@@ -36,7 +36,7 @@ Colors will blend to indicate overlap. Gene expression, regulon activity and cel
 Regulons can be explored in more detail in the 'Regulon' tab.
 Here, you can assess the distribution of regulon activity across all cells and binarise regulon activity by moving the slider. 
 An overview of all target genes of the selected regulon can be found on the right. Clicking on a target gene will show its expression on the UMAP.
-The list of target genes can be downloaded as an .tsv file by pressing the blue button below to further explore in [iRegulon](http://iregulon.aertslab.org/) or gene ontology.   
+A list of target genes of specific regulons can be downloaded as an .tsv file by pressing the blue button below to further explore in [iRegulon](http://iregulon.aertslab.org/) or perform [gene ontology analyses](http://geneontology.org/).   
 
 ![alt text](https://github.com/pasquelab/scPancreasAtlas/blob/master/Screenshot_5.png?raw=true)
 *[Tcf 21](https://pubmed.ncbi.nlm.nih.gov/31549421/) has been identified as transcription factor that deactivates fibrogenic hepatic stellate cells when liver fibrosis occurs in mice. Binarisation of TCF21 regulon activity reveals high regulon activity in stellate cells, suggesting the importance of TCF21 in human pancreatic stellate cells.*
