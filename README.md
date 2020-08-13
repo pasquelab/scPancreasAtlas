@@ -32,8 +32,8 @@ Colors will blend to indicate overlap. Gene expression, regulon activity and cel
 ![alt text](https://github.com/pasquelab/scPancreasAtlas/blob/master/Screenshot_4.png?raw=true)
 *The NEUROD1 regulon (red) is active in gamma cells (blue) indicated by purple*
 
-![alt text](https://github.com/pasquelab/scPancreasAtlas/blob/master/Screenshot_4.2.png?raw=true)
-* [A recent study](https://www.sciencedirect.com/science/article/pii/S1934590920302824?via%3Dihub) has identified human islets as a model to study SARS-CoV-2 infection. Two proteins associated with SARS-CoV-2 infection are ACE2, the putative SARS-CoV-2 receptor, and TMPRSS2, the effector protease [(Hoffmann et al., 2020)](https://www.sciencedirect.com/science/article/pii/S0092867420302294). ACE2 (green) is mostly expressed in stellate, ductal cells and a subset of beta cells. TMPRSS2 (red) is expressed in acinar, ductal and a subset of alpha cells.* 
+![alt text](https://github.com/pasquelab/scPancreasAtlas/blob/master/Screenshot_4_2.png?raw=true)
+*[A recent study](https://www.sciencedirect.com/science/article/pii/S1934590920302824?via%3Dihub) has identified human islets as a model to study SARS-CoV-2 infection. Two proteins associated with SARS-CoV-2 infection are ACE2, the putative SARS-CoV-2 receptor, and TMPRSS2, the effector protease [(Hoffmann et al., 2020)](https://www.sciencedirect.com/science/article/pii/S0092867420302294). ACE2 (green) is mostly expressed in stellate, ductal cells and a subset of beta cells. TMPRSS2 (red) is expressed in acinar, ductal and a subset of alpha cells.* 
 
 Regulons can be explored in more detail in the 'Regulon' tab.
 Here, you can assess the distribution of regulon activity across all cells and binarise regulon activity by moving the slider. 
