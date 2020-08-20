@@ -4,7 +4,7 @@ This repository contains the .loom file supplemental to the article "Revealing t
 
 As a resource to the community, this .loom file contains gene expression and regulon based UMAP plots, cluster annotations, integrated gene expression and gene regulatory data from datasets analyzed in this manuscript.
 
-The .loom file can be downloaded here: [scPancreasAtlas.loom](https://filesender.belnet.be/?s=download&token=8d087b4d-3909-4fc4-8c11-a92fb9989bec) and browsed interactively using the [SCope platform](http://scope.aertslab.org/#/). Alternatively, the standalone SCope app for macOS and Linux can be downloaded from [here](https://github.com/aertslab/SCope/releases).
+The .loom file can be downloaded in the Gene Expression Omnibus (GEO) repository under accession code [GSE156490](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?&acc=GSE156490) and browsed interactively using the [SCope platform](http://scope.aertslab.org/#/). Alternatively, the standalone SCope app for macOS and Linux can be downloaded from [here](https://github.com/aertslab/SCope/releases).
 
 SCope was developed and is maintained by [Aerts lab](https://www.aertslab.org/).
 
