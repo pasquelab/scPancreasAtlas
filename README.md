@@ -6,21 +6,13 @@ As a resource to the community, this .loom file contains gene expression and reg
 
 The .loom file can be downloaded in the Gene Expression Omnibus (GEO) repository under accession code [GSE156490](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?&acc=GSE156490) and browsed interactively using the [SCope platform](http://scope.aertslab.org/#/). Alternatively, the standalone SCope app for macOS and Linux can be downloaded from [here](https://github.com/aertslab/SCope/releases).
 
+A permanent Scope session is available [here](http://scope.aertslab.org/#/PancreasAtlas/*/welcome)
+
 SCope was developed and is maintained by [Aerts lab](https://www.aertslab.org/).
 
 We recommend to open SCope in a Google Chrome webbrowser to ensure optimal interaction with the loom file. 
 
 ## SCope Tutorial
-
-Upload the loom file by clicking on ‘upload new dataset ‘ on the left. This can take a few minutes depending on your internet connection. 
-
-![alt text](https://github.com/pasquelab/scPancreasAtlas/blob/master/Screenshot_1.png?raw=true)
-
-![alt text](https://github.com/pasquelab/scPancreasAtlas/blob/master/Screenshot_2.png?raw=true)
-
-The uploaded .loom file should now be visible under the ‘User uploaded’ tab. Successfully uploading the .loom file will activate a private, temporary session for the user. Each session expires after 5 days, but can be renewed by re-uploading the loom file. Click on the file to start interacting with the data.
-
-![alt text](https://github.com/pasquelab/scPancreasAtlas/blob/master/Screenshot_3.png?raw=true)
 
 You can change the UMAP coordinates from the left sidebar **(1)** to visualise gene expression (as seen in Figure 1)  or regulon based UMAP (as seen in Figure 2).
 Next, you can use the three (Red, Green and Blue) search bars above **2** to search for genes, regulons or annotations of interest. 
